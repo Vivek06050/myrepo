@@ -12,7 +12,7 @@ void bubble(){
 }
 
 int main(){
-        //dummy change
+        //dummy changes
 
     return 0;
 }
